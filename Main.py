@@ -5,7 +5,7 @@
   Graficas por Computadora.
   Sección: 20
 
-  Tarea 1 - Lines & Obj Models
+  Lab 1: Filling any Polygon
 
   @version 1.0
   @author Adrian Fulladolsa Palma | Carne 21592
